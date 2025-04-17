@@ -1,9 +1,15 @@
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
     color: #0c8486;
+    margin-left: 0.75em;
 }
 
 .hello{
-    font-family: 'Open Sans', sans-serif;
-    background-color: black;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    padding: .8em 1em;
+    color: #555;
+}
+
+body{
+    background-attachment: scroll;
 }
