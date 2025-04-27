@@ -4,12 +4,17 @@ h2{
     margin-left: 0.75em;
 }
 
-.hello{
+body{
+    background-attachment: scroll;
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     padding: .8em 1em;
     color: #555;
 }
 
-body{
-    background-attachment: scroll;
+.gras{
+    font-weight: bold;
+}
+
+.moyen{
+    font-size: 1.1em;
 }
