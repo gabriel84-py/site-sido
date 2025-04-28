@@ -18,3 +18,11 @@ body{
 .moyen{
     font-size: 1.1em;
 }
+
+.haut_page{
+    background-color: rgb(184, 219, 222);
+    border-color: black;
+    border-width: 3em;
+    width: 100%;
+    text-align: center;
+}
