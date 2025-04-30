@@ -1,0 +1,14 @@
+.haut_page{
+    background-color: rgb(184, 219, 222);
+    border-color: black;
+    border-width: 3em;
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    background-attachment: scroll;
+    font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    padding: .8em 1em;
+    color: #555;
+}
